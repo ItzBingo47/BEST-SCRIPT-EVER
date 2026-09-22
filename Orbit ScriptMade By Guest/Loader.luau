@@ -95,11 +95,11 @@ VersionFrameScale.Parent = VersionFrame
 local DefaultButtonStroke = Instance.new("UIStroke", DefaultButton)
 local PremiumButtonStroke = Instance.new("UIStroke", PremiumButton)
 
-local URL_MAIN_SCRIPT = "https://gist.githubusercontent.com/DeVerGoose/42b2dc5b944535771986cc656220f33f/raw/"
-local URL_PREMIUM_SCRIPT = "https://gist.githubusercontent.com/DeVerGoose/c248854d3872023023f0ad9e3de00ee0/raw/"
-local URL_KEYS = "https://gist.githubusercontent.com/DeVerGoose/38d660c8a44f6b61307db17f56ea3d3d/raw/"
-local URL_CHANGELOG = "https://gist.githubusercontent.com/DeVerGoose/12265063f2f7c2869298c8b5551ca875/raw/"
-local URL_SUBSCRIPTIONS = "https://gist.githubusercontent.com/DeVerGoose/c1a231677951ba07cb67ed9329d1c927/raw/"
+local URL_MAIN_SCRIPT = "https://raw.githubusercontent.com/ItzBingo47/BEST-SCRIPT-EVER/refs/heads/main/Orbit%20ScriptMade%20By%20Guest/Free.luau"
+local URL_PREMIUM_SCRIPT = "https://raw.githubusercontent.com/ItzBingo47/BEST-SCRIPT-EVER/refs/heads/main/Orbit%20ScriptMade%20By%20Guest/Premium.luau"
+local URL_KEYS = "https://raw.githubusercontent.com/ItzBingo47/BEST-SCRIPT-EVER/refs/heads/main/Orbit%20ScriptMade%20By%20Guest/Keys.luau"
+local URL_CHANGELOG = "https://raw.githubusercontent.com/ItzBingo47/BEST-SCRIPT-EVER/refs/heads/main/Orbit%20ScriptMade%20By%20Guest/Changelog.luau"
+local URL_SUBSCRIPTIONS = "https://raw.githubusercontent.com/ItzBingo47/BEST-SCRIPT-EVER/refs/heads/main/Orbit%20ScriptMade%20By%20Guest/Subscriptions.luau"
 
 DefaultButtonStroke.Color = Color3.fromRGB(0, 0, 0)
 DefaultButtonStroke.StrokeSizingMode = Enum.StrokeSizingMode.ScaledSize
